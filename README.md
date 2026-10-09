@@ -5,7 +5,7 @@ TF-IDF RAG over a synthesised 6-book corpus. GenAI capstone of
 cite-your-sources responses, zero LLM, zero torch — fits in **~5 MB** on the
 Streamlit Cloud free tier.
 
-**Live demo:** (fill in after `publish.sh`)
+**Live demo:** <https://docranger-4uua3kznwphucf3a7urrjg.streamlit.app/>
 **Source:** <https://github.com/PJsAcademy/docranger>
 
 ---
